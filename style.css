@@ -97,6 +97,20 @@ margin-top: -200px;
 .mrg{
   margin-top: -25px;
 }
+.banner{
+  display: flex;
+  justify-content:space-around; 
+  margin: 0 35px 0 200px;
+  padding: 120px 40px;
+  
+
+}
+iframe{
+  border-radius: 16px;
+}
+.size{
+  font-size: 16px;
+}
 
 .btn-style-two{
   font-size: 20px;
@@ -104,12 +118,108 @@ margin-top: -200px;
   line-height: auto;
   background-color: #FFFFFF;
   padding: 8px 20px;
-  text-color: #0D1321;
+  color: #0D1321;
   margin-right: auto;
 }
 .video{
   margin-left: 435px;
 }
+.align-two{
+  width: 364px;
+  height: 300px;
+  background-color: #FF4C1E;
+  opacity: 60%;
+  padding: 40px;
+  margin-right: 24px;
+  border-radius: 16px;
+  }
+  .align-three{
+  width: 364px;
+  height: 300px;
+  background-color: #004CE8;
+  opacity: 60%;
+  padding: 40px;
+  margin-right: 24px;
+  border-radius: 16px;
+
+  }
+  .align-four{
+  width: 364px;
+  height: 300px;
+  background-color: #FFDF00;
+  opacity: 60%;
+  padding: 40px; 
+  margin-right: 24px; 
+  border-radius: 16px;
+
+  }
+ .conclution{
+    background-image: url('../my-first-assignment/assets/handshake.jpg');
+    height: 314px;
+    width: 1140px;
+    border-radius: 16px;
+    margin-left: 215px;
+    margin-right: auto;
+  }
+  .globe{
+    font-size: 32px;
+    color:#FFFFFF;
+    padding-top: 64px;
+   
+  }
+  .fig{
+    font-size: 16px;
+    color: #ffffff;
+  }
+  .red{
+    border-radius: 8px;
+    width: 548px; 
+    height: 35px;
+    padding: 10px;
+    margin-left: 200px;
+    font-size: 16px;
+    /* border:#ffffff; */
+    text-align: justify;
+    background-color: whitesmoke;
+  }
+  .green{
+    width: 120px;
+    height: 57px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+  .yellow{
+    font-size: 20px;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 20px;
+    /* display: inline-block; */
+  }
+  .report{
+    background-color: #6785cc;
+    display: flex:
+    width: auto;
+    height: 100px;
+    border-radius: 16px;
+    margin-top: 100px;
+    
+  }
+  .purple{
+  /* display: flex; */
+   
+  }
+  .clr{
+    justify-content:space-between;
+    /* display: flex; */
+    display: inline-block;
+
+
+  }
+ 
 h2{
   margin-top: 80px;
   margin-right: 144px;
