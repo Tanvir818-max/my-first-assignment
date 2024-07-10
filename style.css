@@ -1,0 +1,76 @@
+
+.azeret-mono {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 50px 200px;
+}
+nav ul{
+  display: flex;
+  
+}
+nav ul li{
+  list-style: none;
+  align-items: center;
+}
+.btn-style{
+  width: 240px;
+  height: 55px;
+  background-color: #ffffff;
+  font-size: 20px; 
+  border-radius: 8px;
+  padding: 15px 24px;
+  
+}
+.btn-style-one{
+  width: 240px;
+  height: 55px;
+  background-color: #0D1321;
+  color: #FFFFFF;
+  font-size: 20px;
+  border-radius: 8px;
+  padding: 15px 24px;
+ }
+h3{
+  font-size: 28px;
+  
+}
+main{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.center{
+  text-align: center;.
+
+}
+.cartoon-logo{
+  width: 240px;
+  height: 240px;
+  margin-left: 825px;
+}
+
+.style{
+  font-size: 48px;
+  font-weight: bolder;
+  color: #0D1321;
+  line-height: 64px;
+  stroke: #000000;
+}
+p{
+  font-size: 16px;
+  line-height: 26px;
+}
+button{
+  margin-left: 825px;
+  
+}
+.head{
+  background-image: url('../my-first-assignment/assets/Hero-bg.png')
+}
