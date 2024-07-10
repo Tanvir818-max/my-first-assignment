@@ -13,7 +13,6 @@ nav{
 }
 nav ul{
   display: flex;
-  
 }
 nav ul li{
   list-style: none;
@@ -49,7 +48,6 @@ main{
 
 .center{
   text-align: center;.
-
 }
 .cartoon-logo{
   width: 240px;
@@ -118,10 +116,7 @@ p{
   font-size: 16px;
   line-height: 26px;
 }
-button{
-  
-  
-}
+
 .head{
   background-image: url('../my-first-assignment/assets/Hero-bg.png')
   
